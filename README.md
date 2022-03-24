@@ -1,6 +1,6 @@
 # Cisco packet tracer
 
-The network.pkt contains a network made in Cisco packet racer with the following:
+The network.pkt contains a network made in Cisco packet tracer with the following:
 
 -DHCP
 
